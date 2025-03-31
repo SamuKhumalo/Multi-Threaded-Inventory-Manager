@@ -2,6 +2,7 @@
 
 A Java-based inventory management system that simulates real-time stock updates using multi-threading and a MySQL database.
 
+
 ## Overview
 
 This project demonstrates how to manage product inventory in a multi-threaded environment. It simulates multiple stores selling products concurrently and updates the stock levels in a database using JDBC. The system ensures thread safety by using synchronized methods to handle concurrent updates.
